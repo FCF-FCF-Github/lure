@@ -5,7 +5,7 @@
 Easy to use client hooks for old Roblox clients
 
 ## Classes
-Lure provides six sample classes that provide different functions. You may reference them in order to add your own.
+Lure provides six sample classes that provide different functifons. You may reference them in order to add your own.
 
 - **CRoblox**: Detours `CRobloxApp::InitInstance` and `CRobloxCommandLineInfo::ParseParam` to allow authentication and join-script command line arguments.
 - **Context**: Adds verbose (or, at the very least, easier-to-understand) error messages for permission checks. **This is only enabled when Lure is compiled as Debug.**
